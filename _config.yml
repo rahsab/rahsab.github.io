@@ -22,23 +22,23 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Rahat Sabyrbekov"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD in Economics. Researcher"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "OSCE Academy, Justus Liebig University, Davis Center at Harvard University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rsabyrbekov@fas.harvard.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=k_D94sEAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5039-2602"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
+  #scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/sabyrbekov/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
